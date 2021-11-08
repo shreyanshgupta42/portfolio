@@ -136,6 +136,7 @@ body {
     padding: 50px 100px;
     height: 300px;
     font-size: 24px;
+    padding-bottom: 100px;
 }
 
 .skills {
@@ -444,7 +445,7 @@ button {
         margin: 10px;
     }
     .about {
-        padding: 20px 50px;
+        padding: 100px 100px;
     }
     .huddle,
     .intropage,
